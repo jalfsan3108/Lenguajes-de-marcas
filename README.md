@@ -9,12 +9,6 @@ Ejercicio | Descripción
 ## TEMA 1 - HTML
 Ejercicio | Descripción
 ----------|-------------
-[Ejercicio1](ejercicio1/.html) |Página con el texto facilitado que incluya las etiquetas necesarias para:
-Crea una cabecera h1 para las siglas HTML
-Usa una cabecera h2 para “Introducción” y “Primeras especificaciones” 
-Texto enfatizado para “Tim Berners-Lee”
-Coloca una etiqueta “strong” para “HyperText Markup Language”
-Usa una etiqueta “cite” para la referencia a wikipedia.
-
-[Ejercicio2](tema1/ejercicio2.html) |Documento xml que incluya información sobre un par de libros de una biblioteca.
+[Ejercicio1](ejercicio1/.html) |Página con el texto facilitado que incluya las etiquetas necesarias.
+[Ejercicio2](tema1/ejercicio2.html) |Página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 
