@@ -9,6 +9,6 @@ Ejercicio | Descripción
 ## TEMA 1 - HTML
 Ejercicio | Descripción
 ----------|-------------
-[Ejercicio1](ejercicio1/.html) |Página con el texto facilitado que incluya las etiquetas necesarias.
+[Ejercicio1](tema1/ejercicio1.html) |Página con el texto facilitado que incluya las etiquetas necesarias.
 [Ejercicio2](tema1/ejercicio2.html) |Página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
 
