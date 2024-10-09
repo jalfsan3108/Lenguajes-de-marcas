@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Carta>
+    <primerplato>
+       <comida>Revuelto serrano</comida>
+        <precio>10€</precio>
+       <comida>Guisantes con jamóm</comida>
+        <precio>7€</precio>
+    </primerplato>
+
+    <segundoplato>
+    
+       <comida>Lomo con patatas</comida>
+        <precio>7€</precio>
+       <comida>Salmorejo</comida>
+        <precio>8€</precio>
+    
+    </segundoplato>
+
+</Menu>
