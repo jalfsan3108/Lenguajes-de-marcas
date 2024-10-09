@@ -4,7 +4,7 @@ Lenguajes de marcas de ASIR
 Ejercicio | Descripción
 ----------|-------------
 [Ejercicio1](tema0/pagina.html) |Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
-[Ejercicio2](tema0/biblioteca.xml) |Documento xml que incluya información sobre un par de libros de una biblioteca.
+[Ejercicio2](tema0/menu.xml) |Documento xml que incluya información sobre un par de libros de una biblioteca.
 
 ## TEMA 1 - HTML
 Ejercicio | Descripción
