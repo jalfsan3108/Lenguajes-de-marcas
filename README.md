@@ -6,7 +6,7 @@ Ejercicio | Descripción
 [Ejercicio1](tema0/pagina.html) |Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
 [Ejercicio2](tema0/menu.xml) |Documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio3](tema0/ejercicio3) |¿Qué es SVG? Busca un ejemplo.
-[Ejercicio4]([jalfsan3108/prueba](https://github.com/jalfsan3108/prueba.git)) |Crea un repositorio nuevo llamado “prueba” que incluya una página “README.md”. Utiliza markdown que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
+[Ejercicio4](https://github.com/jalfsan3108/prueba.git) |Crea un repositorio nuevo llamado “prueba” que incluya una página “README.md”. Utiliza markdown que incluya varias cabeceras, texto, una lista, un gráfico y una tabla.
 
 ## TEMA 1 - HTML
 Ejercicio | Descripción
