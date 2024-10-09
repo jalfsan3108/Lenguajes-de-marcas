@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first SVG</h1>
+
+<svg width="2000" height="2000" xmlns="http://www.w3.org/2000/svg">
+   <circle cx="200" cy="50" r="35" stroke="black" stroke-width="7" fill="black" />
+   <circle cx="300" cy="50" r="35" stroke="black" stroke-width="7" fill="black" />
+    <circle cx="250" cy="100" r="50" stroke="red" stroke-width="7" fill="white" />
+     <ellipse rx="20" ry="35" cx="235" cy="100"
+  		style="fill:#FCD0B4;stroke:#FCD0B4;stroke-width:3" />
+     <ellipse rx="20" ry="35" cx="265" cy="100"
+  		style="fill:#FCD0B4;stroke:#FCD0B4;stroke-width:3" />
+
+   Sorry, your browser does not support inline SVG.
+</svg> 
+ 
+</body>
+</html>
