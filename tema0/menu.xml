@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Carta>
-    <primerplato>
-       <comida>Revuelto serrano</comida>
-        <precio>10€</precio>
-       <comida>Guisantes con jamóm</comida>
-        <precio>7€</precio>
-    </primerplato>
-
-    <segundoplato>
-    
-       <comida>Lomo con patatas</comida>
-        <precio>7€</precio>
-       <comida>Salmorejo</comida>
-        <precio>8€</precio>
-    
-    </segundoplato>
-
-</Menu>
+<biblioteca>
+    <libro>
+        <titulo>Don Quijote de la Mancha</titulo>
+        <autor>Miguel de Cervantes</autor>
+        <anio>1605</anio>
+        <isbn>978-84-376-0494-7</isbn>
+    </libro>
+    <libro>
+        <titulo>Cien años de soledad</titulo>
+        <autor>Gabriel García Márquez</autor>
+        <anio>1967</anio>
+        <isbn>978-84-376-0495-4</isbn>
+    </libro>
+</biblioteca>
