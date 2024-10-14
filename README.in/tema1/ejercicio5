@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Página con Párrafos y Encabezados</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333;
+            text-align: center;
+            text-align: right;
+            text-align: justify;
+            text-align: left;
+        }
+    </style>
+</head>
+<body>
+    <h1>Encabezado Principal</h1>
+    <p class="centrado">Este es un párrafo centrado. Aquí se puede colocar texto que esté alineado al centro de la página.</p>
+
+    <h2>Encabezado Secundario</h2>
+    <p class="izquierda">Este es un párrafo alineado a la izquierda. La alineación por defecto de los párrafos en HTML es a la izquierda.</p>
+
+    <h3>Subtítulo o Encabezado Terciario</h3>
+    <p class="derecha">Este párrafo está alineado a la derecha. Puedes usarlo para resaltar información específica de forma más visual.</p>
+
+    <h2>Otro Encabezado Secundario</h2>
+    <p class="justificado">Este es un párrafo justificado. La alineación justificada ajusta el texto a ambos márgenes, creando un bloque de texto limpio y simétrico.</p>
+</body>
+</html>
