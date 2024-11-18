@@ -1,5 +1,5 @@
-# LLMM: Lenguajes de marcas de DAW ## Jose Darío Alfaro Santos
-Jose Darío Alfaro Santos
+# LLMM: Lenguajes de marcas
+🐱‍💻|Jose Darío Alfaro Santos ~ 1º DAW | 
 ## TEMA 0 - HTML
 Ejercicios | Descripción
 ----------|-------------
