@@ -1,5 +1,5 @@
 # LLMM: Lenguajes de marcas
-`🐱‍💻| **`#RRGGBB`Jose Darío Alfaro Santos** ~ 1º DAW `
+`🐱‍💻| **Jose Darío Alfaro Santos** ~ 1º DAW ` `**`Jose Darío Alfaro Santos`**
 ## TEMA 0 - HTML
 Ejercicios | Descripción
 ----------|-------------
