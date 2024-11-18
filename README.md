@@ -20,3 +20,8 @@ Ejercicio | Descripción
 [Ejercicio7](tema1/ejercicio7.html) |Cambia los atributos de la página para cambiar el fondo y color.
 [Ejercicio8](tema1/ejercicio8.html) |Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo).
 [Ejercicio9](tema1/ejercicio9.html) |Crea un página html como la mostrada.
+
+## QuarterlyWork - HTML
+Pasos | Descripción
+----------|-------------
+[Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |Instrucciones para realizar el trabajo "**Web4U**"
