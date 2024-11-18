@@ -22,6 +22,7 @@ Ejercicio | Descripción
 [Ejercicio9](tema1/ejercicio9.html) |Crea un página html como la mostrada.
 
 ## QuarterlyWork - HTML
-Pasos | Descripción
+Pasos | Instrucciones
 ----------|-------------
-[Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |Instrucciones para realizar el trabajo "**Web4U**"
+[Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
+
