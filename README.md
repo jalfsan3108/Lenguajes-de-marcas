@@ -20,7 +20,26 @@ Ejercicio | Descripción
 [Ejercicio7](tema1/ejercicio7.html) |Cambia los atributos de la página para cambiar el fondo y color.
 [Ejercicio8](tema1/ejercicio8.html) |Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo).
 [Ejercicio9](tema1/ejercicio9.html) |Crea un página html como la mostrada.
-
+[Ejercicio10](tema1/ejercicio10.html) |Crea una página html con una lista anidada de dos niveles.  
+[Ejercicio11](tema1/ejercicio11.html) |Añade los ítems indicados a una lista en HTML.  
+[Ejercicio12](tema1/ejercicio12.html) |Crea cuatro párrafos con estilos y formatos distintos según las indicaciones.  
+[Ejercicio13](tema1/ejercicio13.html) |Crea párrafos con bordes y colores de cabeceras diferentes.  
+[Ejercicio14](tema1/ejercicio14.html) |Aplica márgenes y rellenos específicos para los párrafos según las indicaciones.  
+[Ejercicio15](tema1/ejercicio15.html) |Crea una tabla con cabeceras y atributos necesarios.  
+[Ejercicio16](tema1/ejercicio16.html) |Diseña una tabla con un horario escolar combinando celdas según las indicaciones.  
+[Ejercicio17](tema1/ejercicio17.html) |Crea una tabla con encabezados, imágenes y atributos.  
+[Ejercicio18](tema1/ejercicio18.html) |Diseña una tabla avanzada utilizando etiquetas y atributos como colspan y rowspan.  
+[Ejercicio19](tema1/ejercicio19.html) |Muestra imágenes flotantes con texto a la izquierda y derecha.  
+[Ejercicio20](tema1/ejercicio20.html) |Muestra tres imágenes con texto y posicionamiento flotante.  
+[Ejercicio21](tema1/ejercicio21.html) |Crea un grupo de miniaturas con enlaces a las imágenes originales.  
+[Ejercicio22](tema1/ejercicio22.html) |Diseña e incluye un favicon en una página web.  
+[Ejercicio23](tema1/ejercicio23.html) |Crea una página con un iFrame y barra de menús según las indicaciones.  
+[Ejercicio24](tema1/ejercicio24.html) |Diseña un formulario HTML con controles variados y atributos específicos.  
+[Ejercicio25](tema1/ejercicio25.html) |Crea un formulario de login y una página PHP para mostrar los datos.  
+[Ejercicio26](tema1/ejercicio26.html) |Añade un video con controles personalizados.  
+[Ejercicio27](tema1/ejercicio27.html) |Diseña una página que reproduzca un archivo de audio.  
+[Ejercicio28](tema1/ejercicio28.html) |Incluye un vídeo incrustado de YouTube.  
+[Ejercicio30](tema1/ejercicio30.html) |Crea y publica un sitio web según las instrucciones dadas.
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
 ----------|-------------
