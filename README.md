@@ -4,8 +4,8 @@
 ---
 
 ## 🌐 **Recursos Principales**  
-- [📘 MCLibre](https://www.mclibre.org/consultar/htmlcss/)  
-- [📚 W3Schools](https://www.w3schools.com/)  
+- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
+- [📚] [`W3Schools`](https://www.w3schools.com/)  
 
 ---
 
