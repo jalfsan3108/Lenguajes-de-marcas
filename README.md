@@ -9,7 +9,7 @@
 
 ---
 
-### 📝 **Progreso del Curso**  
+### 📝 **Progreso**  
 
 | TEMA         | Progreso  | Total Ejercicios  |
 |--------------|-----------|-------------------|
