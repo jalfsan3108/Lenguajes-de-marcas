@@ -1,5 +1,9 @@
 # LLMM: *Lenguajes de marcas de 1º DAW*
 `🐱‍💻` **`Jose Darío Alfaro Santos`** 
+## RECURSOS - HTML y CSS
+[MCLibre]([https://github.com/jalfsan3108/prueba.git](https://www.mclibre.org/consultar/htmlcss/))
+[W3 Schools]([[https://github.com/jalfsan3108/prueba.git](https://www.w3schools.com/))
+
 ## TEMA 0 - HTML
 Ejercicios | Descripción
 ----------|-------------
