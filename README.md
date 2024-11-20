@@ -10,8 +10,8 @@
 ---
 
 ### 📝 **Progreso** 
-Curso  | Progreso  | Total
-         Curso         |         Progreso         | Total
+
+|        Curso         |         Progreso         | Total
 -----------------------|--------------------------|-------
        **TEMA 0**      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩|  4/4  
        **TEMA 1**      | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜| 09/30 
