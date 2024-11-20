@@ -32,13 +32,13 @@ Ejercicios | Descripción
 ----------|-------------
 [Ejercicio 1](tema1/ejercicio1.html)|📝 Texto facilitado utilizando las etiquetas necesarias.                       
 [Ejercicio 5](tema1/ejercicio2.html)|📜 Párrafos con diferentes alineaciones y encabezados.
-[Ejercicio3](tema1/ejercicio3.html) |Usa el texto mostrado y dale el formato siguiendo las indicaciones.
-[Ejercicio4](tema1/ejercicio4.html) |Página html que muestre el aspecto mostrado.
-[Ejercicio5](tema1/ejercicio5.html) |Página que contenga varios párrafos, con distinta alineación y con encabezados.
-[Ejercicio6](tema1/ejercicio6.html) |Modifica la página anterior para incluir distintos formatos de texto.
-[Ejercicio7](tema1/ejercicio7.html) |Cambia los atributos de la página para cambiar el fondo y color.
-[Ejercicio8](tema1/ejercicio8.html) |Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo).
-[Ejercicio9](tema1/ejercicio9.html) |Crea un página html como la mostrada.
+[Ejercicio3](tema1/ejercicio3.html) |❕ Usa el texto mostrado y dale el formato siguiendo las indicaciones.
+[Ejercicio4](tema1/ejercicio4.html) |😦 Página html que muestre el aspecto mostrado.
+[Ejercicio5](tema1/ejercicio5.html) |🔨 Página que contenga varios párrafos, con distinta alineación y con encabezados.
+[Ejercicio6](tema1/ejercicio6.html) |🚧 Modifica la página anterior para incluir distintos formatos de texto.
+[Ejercicio7](tema1/ejercicio7.html) |🌈 Cambia los atributos de la página para cambiar el fondo y color.
+[Ejercicio8](tema1/ejercicio8.html) |👨‍🎓 Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo).
+[Ejercicio9](tema1/ejercicio9.html)   |Crea un página html como la mostrada.
 [Ejercicio10](tema1/ejercicio10.html) |Crea una página html con una lista anidada de dos niveles.  
 [Ejercicio11](tema1/ejercicio11.html) |Añade los ítems indicados a una lista en HTML.  
 [Ejercicio12](tema1/ejercicio12.html) |Crea cuatro párrafos con estilos y formatos distintos según las indicaciones.  
