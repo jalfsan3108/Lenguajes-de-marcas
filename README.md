@@ -10,7 +10,13 @@
 ---
 
 ### 📝 **Progreso** 
+## TEMA 0 - HTML
 
+  <tr style="background-color: #f0f0f0; font-weight: bold;">
+    <td>Curso</td>
+    <td>Progreso</td>
+    <td>Total Ejercicios</td>
+  </tr>
 |        Curso          |         Progreso         | Total |
 ------------------------|--------------------------|-------|
 |       **TEMA 0**      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩|  4/4  |
