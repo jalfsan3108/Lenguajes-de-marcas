@@ -20,8 +20,8 @@ Ejercicios | Descripción
 ## TEMA 1 - HTML
 Ejercicios | Descripción
 ----------|-------------
-[Ejercicio1](tema1/ejercicio1.html) |Página con el texto facilitado que incluya las etiquetas necesarias.
-[Ejercicio2](tema1/ejercicio2.html) |Página html que incluya seis niveles de cabecera seguidas de un pequeño párrafo de texto.
+[Ejercicio 1](tema1/ejercicio1.html)| 📝 Texto facilitado utilizando las etiquetas necesarias.                       
+[Ejercicio 5](tema1/ejercicio5.html)| 📜 Párrafos con diferentes alineaciones y encabezados.
 [Ejercicio3](tema1/ejercicio3.html) |Usa el texto mostrado y dale el formato siguiendo las indicaciones.
 [Ejercicio4](tema1/ejercicio4.html) |Página html que muestre el aspecto mostrado.
 [Ejercicio5](tema1/ejercicio5.html) |Página que contenga varios párrafos, con distinta alineación y con encabezados.
