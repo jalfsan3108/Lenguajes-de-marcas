@@ -1,5 +1,6 @@
 # LLMM: *Lenguajes de marcas de 1º DAW*
 ### `🐱‍💻` **`Jose Darío Alfaro Santos`** 
+
 <div align="center">
   <p style="display: inline-block; white-space: nowrap; animation: scroll 10s linear infinite;">
     🌟 ¡Explora mis proyectos! 🌟
@@ -16,6 +17,7 @@
   }
 }
 </style>
+
 ---
 
 ## 🌐 **Recursos Principales**  
