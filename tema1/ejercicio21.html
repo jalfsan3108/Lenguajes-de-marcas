@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 21/title>
+    <style>
+        /* Contenedor de la galería */
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+
+        /* Estilo para las imágenes en miniatura */
+        .thumbnail {
+            margin: 10px;
+            border: 2px solid #ddd;
+            padding: 5px;
+            width: 150px; /* Tamaño de las miniaturas */
+            height: auto;
+            transition: transform 0.2s ease;
+        }
+
+
+        .thumbnail:hover {
+            transform: scale(1.1);
+        }
+
+    
+        a {
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="gallery">
+     
+        <a href="img_chania.jpg" target="_blank">
+            <img src="img_chania.jpg" alt="Flowers in Chania" class="thumbnail">
+        </a>
+
+        
+        <a href="img_girl.jpg" target="_blank">
+            <img src="img_girl.jpg" alt="Girl in a jacket" class="thumbnail">
+        </a>
+
+      
+        <a href="pic_trulli.jpg" target="_blank">
+            <img src="pic_trulli.jpg" alt="Italian Trulli" class="thumbnail">
+        </a>
+    </div>
+
+</body>
+</html>
+
