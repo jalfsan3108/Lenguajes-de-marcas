@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 20</title>
+    <style>
+        /* Estilo para las imágenes flotantes */
+        .izquierda {
+            float: left;
+            margin-right: 15px;
+            width: 200px;
+            height: auto;
+        }
+
+        .derecha {
+            float: right;
+            margin-left: 15px;
+            width: 200px;
+            height: auto;
+        }
+
+        /* Para que el contenedor se ajuste al contenido flotante */
+        .clearfix {
+            clear: both;
+        }
+
+        h2 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Ejercicio 20 - Imágenes flotantes</h2>
+
+    <p>
+        <img src="https://www.w3schools.com/html/pic_trulli.jpg" alt="Casa de trulli" class="izquierda">
+        Este es un ejemplo de una imagen flotante a la izquierda. La imagen muestra una tradicional casa de Trulli en Italia. El texto fluye alrededor de la imagen, ajustándose a su tamaño.
+    </p>
+
+    <p>
+        <img src="https://www.w3schools.com/html/pic_mountains.jpg" alt="Montañas" class="derecha">
+        Esta imagen muestra unas montañas, y flota a la derecha del texto. El diseño es fluido, y el texto sigue alrededor de la imagen de las montañas. Puedes agregar más texto aquí para ver cómo se adapta.
+    </p>
+
+    <p>
+        <img src="https://www.w3schools.com/html/pic_snow.jpg" alt="Paisaje nevado" class="izquierda">
+        Aquí tenemos una imagen de un paisaje nevado que flota a la izquierda. La disposición de las imágenes y el texto muestra cómo se pueden organizar las imágenes de manera fluida en una página web.
+    </p>
+
+</body>
+</html>
