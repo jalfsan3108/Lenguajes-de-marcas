@@ -20,8 +20,8 @@
 ---
 
 ## TEMA 0 - HTML
-Ejercicios  | Descripción
-------------|-------------
+Ejercicios | Descripción
+----------|-------------
 [Ejercicio 1](tema0/pagina.html) |Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
 [Ejercicio 2](tema0/menu.xml) |Documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio 3](tema0/ejercicio3) |¿Qué es SVG? Busca un ejemplo.
