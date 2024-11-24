@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 19 - Imágenes flotantes</title>
+    <style>
+        /* Estilo para la imagen flotante a la izquierda */
+        .izquierda {
+            float: left;
+            margin-right: 15px;
+            width: 200px;
+            height: auto;
+        }
+
+        /* Estilo para la imagen flotante a la derecha */
+        .derecha {
+            float: right;
+            margin-left: 15px;
+            width: 200px;
+            height: auto;
+        }
+
+        /* Para que el contenedor se ajuste al contenido flotante */
+        .clearfix {
+            clear: both;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Ejercicio 19 - Imágenes flotantes</h2>
+
+    <p>
+        <img src="https://via.placeholder.com/200" alt="Imagen izquierda" class="izquierda">
+        Este es un párrafo de texto que aparece junto a la imagen flotante a la izquierda. El texto se adapta al espacio a su alrededor, permitiendo que la imagen quede a la izquierda del contenido. Puedes seguir escribiendo para ver cómo el texto rodea la imagen. Continúa agregando más texto aquí para observar cómo se acomoda el flujo del contenido.
+    </p>
+
+    <p>
+        <img src="https://via.placeholder.com/200" alt="Imagen derecha" class="derecha">
+        Este es otro párrafo de texto, pero esta vez la imagen flota a la derecha. Al igual que la imagen anterior, el texto se ajusta alrededor de la imagen flotante a la derecha. Esto crea un diseño más fluido y dinámico en la página.
+    </p>
+
+    <div class="clearfix"></div> <!-- Este div asegura que el siguiente contenido no se vea afectado por el flotado -->
+
+</body>
+</html>
