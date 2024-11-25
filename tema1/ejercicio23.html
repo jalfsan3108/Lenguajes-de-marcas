@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 23</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #900;
+            display: flex;
+            justify-content: center;
+        }
+        li {
+            float: left;
+        }
+        li a {
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        li a:hover {
+            background-color: #333;
+        }
+        iframe {
+            width: 90%;
+            height: 1000px;
+            border: 1px solid #0033;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="#" onclick="cargarContenido('https://uniwebsidad.com/libros/html/capitulo-1')">HTML</a></li>
+        <li><a href="#" onclick="cargarContenido('https://uniwebsidad.com/libros/css/capitulo-1')">CSS</a></li>
+        <li><a href="#" onclick="cargarContenido('https://uniwebsidad.com/libros/javascript/capitulo-1')">JavaScript</a></li>
+        <li><a href="#" onclick="cargarContenido('https://uniwebsidad.com/libros/ajax/capitulo-1')">Ajax</a></li>
+    </ul>
+
+    <iframe src="https://uniwebsidad.com/"></iframe>
+
+</body>
+</html>
