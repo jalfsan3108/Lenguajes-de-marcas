@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html> 
+<title>Formulario CV</title>
+<head>
+    <meta charset="UTF-8">
+</head><h1>
+<body><h1>Rellena tu Formulario </h1>
+    <form action="procesar_formulario.php" method="POST" enctype="multipart/form-data">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" maxlength="30" required>
+        <br>
+
+        <label for="apellidos">Apellidos:</label>
+        <input type="text" id="apellidos" name="apellidos" maxlength="80" required>
+        <br>
+
+        <label for="contrasena">Contraseña:</label>
+        <input type="password" id="contrasena" name="contrasena" maxlength="10" required>
+        <br>
+
+        <label for="dni">DNI:</label>
+        <input type="text" id="dni" name="dni" maxlength="10" required>
+        <br>
+
+        <p>Sexo:</p>
+        <input type="radio" id="hombre" name="sexo" value="hombre" required>
+        <label for="hombre">Hombre</label>
+        <br>
+        <input type="radio" id="mujer" name="sexo" value="mujer">
+        <label for="mujer">Mujer</label>
+        <br>
+
+        <label for="foto">Incluir mi foto:</label>
+        <input type="file" id="foto" name="foto" accept="image/*">
+        <br>
+
+        <input type="checkbox" id="newsletter" name="newsletter" checked>
+        <label for="newsletter">Suscribirme al boletín de novedades</label>
+        <br><br>
+
+        <button type="submit">Guardar cambios</button>
+        <button type="reset">Borrar los datos introducidos</button>
+    </form>
+</body>
+</html>
