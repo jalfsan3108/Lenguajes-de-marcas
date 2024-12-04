@@ -36,7 +36,7 @@ Ejercicios | Descripción
 [Ejercicio 6](tema1/ejercicio6.html) |🚧 Modifica la página anterior para incluir distintos formatos de texto.
 [Ejercicio 7](tema1/ejercicio7.html) |🌈 Cambia los atributos de la página para cambiar el fondo y color.
 [Ejercicio 8](tema1/ejercicio8.html) |👨‍🎓 Haz el ejercicio número 6 de “uniwebsidad” del capítulo 4 (aparece al final del artículo).
-[Ejercicio 9](tema1/ejercicio9.html)   |Crea un página html como la mostrada.
+[Ejercicio 9](tema1/ejercicio9.html)   |💌 Crea un página html como la mostrada.
 [Ejercicio 10](tema1/ejercicio10.html) |🐱‍🏍 Crea una página html con una lista anidada de dos niveles.  
 [Ejercicio 11](tema1/ejercicio11.html) |🛒 Añade los ítems indicados a una lista en HTML.  
 [Ejercicio 12](tema1/ejercicio12.html) |👨‍👨‍👧‍👦 Crea cuatro párrafos con estilos y formatos distintos según las indicaciones.  
