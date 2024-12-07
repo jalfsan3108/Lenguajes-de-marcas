@@ -60,7 +60,7 @@ Ejercicios | Descripción
 [Ejercicio 28](tema1/ejercicio28.html) |🎬 Incluye un vídeo incrustado de YouTube.  
 [Ejercicio 30](tema1/ejercicio30.html) |✨ Crea y publica un sitio web según las instrucciones dadas.
 
-Ejercicios adicionales DOM | Descripción
+Ejercicios DOM | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones de las 30 actividades**
 [Ejercicio 23](tema1/ejerciciodom23.html)|🏰 Crea una página y modifica el título mediante JavaScript.                     
