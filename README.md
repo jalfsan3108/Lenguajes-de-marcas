@@ -2,9 +2,9 @@
 ### `🐱‍💻` **`Jose Darío Alfaro Santos`** 
 
 ## 🌐 **Recursos Principales**  
-- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
+- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  ![GIF Animado](https://i.pinimg.com/originals/b3/ea/ad/b3eaad11c26ea7555cce955b69df4bb8.gif)
 - [📚] [`W3Schools`](https://www.w3schools.com/)  
-https://i.pinimg.com/originals/b3/ea/ad/b3eaad11c26ea7555cce955b69df4bb8.gif
+
 ---
 
 ### 📝 **Progreso**
