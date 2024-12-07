@@ -65,9 +65,9 @@ Ejercicios | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones de las 30 actividades**
 [Ejercicio 23](tema1/ejerciciodom23.html)|🏰 Crea una página y modifica el título mediante JavaScript.                     
-[Ejercicio 24](tema1/ejerciciodom24.html)|🦽 Crea una página que incluya un párrafo. Accede a dicho párrafo mediante el “id” usando JavaScript  y cambiar su contenido.
-[Ejercicio 25](tema1/ejerciciodom25.html) |🚁 Crea una página que incluya un párrafo. Accede a dicho párrafo mediante el “id” usando JavaScript  y cambiar su estilo: color, color de fondo, borde y tipo de fuente
-[Ejercicio 26](tema1/ejerciciodom26.html) |🚈 Crea una página que incluya un iframe. Accede al mismo mediante el “id” usando JavaScript  y cambiar el atributo “src” para que muestre una página diferente..
+[Ejercicio 24](tema1/ejerciciodom24.html)|🦽 Crea una página que incluya un párrafo.
+[Ejercicio 25](tema1/ejerciciodom25.html) |🚁 Crea una página que incluya un párrafo.
+[Ejercicio 26](tema1/ejerciciodom26.html) |🚈 Crea una página que incluya un iframe.
 
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
