@@ -1,1 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 27</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        audio {
+            width: 80%;
+            max-width: 600px;
+            margin-bottom: 20px;
+        }
+        .controls-container {
+            margin-top: 10px;
+        }
+        button {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>⚡Rayo McQueen⚡</h2>
+    <audio id="audio2">
+        <source src="https://raw.githubusercontent.com/jalfsan3108/LLMM/main/tema1/ejercicio27.html/cars.mp3" type="audio/mpeg">
+    </audio>
+    <div class="controls-container">
+        <button onclick="playAudio()">Play</button>
+        <button onclick="pauseAudio()">Pausa</button>
+        <button onclick="restartAudio()">Reiniciar</button>
+    </div>
 
+    <script>
+        const audio = document.getElementById('audio2');
+
+        function playAudio() {
+            audio.play();
+        }
+
+        function pauseAudio() {
+            audio.pause();
+        }
+
+        function restartAudio() {
+            audio.currentTime = 0;
+            audio.play();
+        }
+    </script>
+</body>
+</html>
