@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Ejercicio 26</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 20px;
+        }
+        video {
+            width: 80%;
+            max-width: 600px;
+            margin-bottom: 20px;
+        }
+        .controls-container {
+            margin-top: 10px;
+        }
+        button {
+            margin: 5px;
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h2>⚡Rayo McQueen⚡</h2>
+    <video id="video2">
+        <source src="https://raw.githubusercontent.com/jalfsan3108/LLMM/main/tema1/ejercicio26.html/cars.mp4" type="video/mp4">
+    </video>
+    <div class="controls-container">
+        <button onclick="playVideo()">Play</button>
+        <button onclick="pauseVideo()">Pausa</button>
+        <button onclick="restartVideo()">Reiniciar</button>
+    </div>
+
+    <script>
+        const video = document.getElementById('video2');
+
+        function playVideo() {
+            video.play();
+        }
+
+        function pauseVideo() {
+            video.pause();
+        }
+
+        function restartVideo() {
+            video.currentTime = 0;
+            video.play();
+        }
+    </script>
+</body>
+</html>
