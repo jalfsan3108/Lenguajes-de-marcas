@@ -2,7 +2,7 @@
 ### `🐱‍💻` **`Jose Darío Alfaro Santos`** 
 
 ## 🌐 **Recursos Principales**  
-- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  ![GIF Animado](https://i.pinimg.com/originals/b3/ea/ad/b3eaad11c26ea7555cce955b69df4bb8.gif)
+- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)
 - [📚] [`W3Schools`](https://www.w3schools.com/)  
 
 ---
@@ -74,4 +74,6 @@ Pasos | Instrucciones
 [Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |✅ Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
 [Free Website Hosting](https://www.infinityfree.com/#google_vignette) |📍 First of all publish your website in a github repository and upload it in a free web hosting site.
 
-![GIF Animado](https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif)
+<div align="center">
+  <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" alt="GIF Animado">
+</div>
