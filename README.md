@@ -20,7 +20,7 @@
 ## TEMA 0 - HTML
 Ejercicios | Descripción
 -----------|------------
-[**Enunciados**](https://docs.google.com/document/d/1N-ePfly6uEPFOjIdiWBunZ2Ep3rY-c9tqu_On1L-7LY/edit?tab=t.0)  | 📖 **Instrucciones previas a todas las 30 actividades**
+[**Enunciados**](https://docs.google.com/document/d/1N-ePfly6uEPFOjIdiWBunZ2Ep3rY-c9tqu_On1L-7LY/edit?tab=t.0)  | 📖 **Instrucciones de las 4 actividades**
 [Ejercicio 1](tema0/pagina.html)|Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
 [Ejercicio 2](tema0/menu.xml)|Documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio 3](tema0/ejercicio3)|¿Qué es SVG? Busca un ejemplo.
@@ -29,7 +29,7 @@ Ejercicios | Descripción
 ## TEMA 1 - HTML
 Ejercicios | Descripción
 -----------|------------
-[**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones previas a todas las 30 actividades**
+[**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones de las 30 actividades**
 [Ejercicio 1](tema1/ejercicio1.html)|📝 Texto facilitado utilizando las etiquetas necesarias.                       
 [Ejercicio 2](tema1/ejercicio2.html)|📜 Párrafos con diferentes alineaciones y encabezados.
 [Ejercicio 3](tema1/ejercicio3.html) |❕ Usa el texto mostrado y dale el formato siguiendo las indicaciones.
