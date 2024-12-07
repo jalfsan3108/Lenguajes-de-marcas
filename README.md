@@ -16,9 +16,6 @@
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
 
 ---
-<div align="center">
-  <img src="https://i.pinimg.com/736x/ca/b1/bd/cab1bda8772cb3e29d4444803c6c81c8.jpg" alt="Imagen centrada">
-</div>
 
 ## TEMA 0 - HTML
 Ejercicios | Descripción
