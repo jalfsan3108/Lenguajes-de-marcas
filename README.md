@@ -26,6 +26,9 @@ Ejercicios | Descripción
 [Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |Crea un repositorio nuevo “prueba” que incluya “README.md”.
 
 ## TEMA 1 - HTML
+Intrucciones 
+----------
+[Enunciados 📖](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  
 Ejercicios | Descripción
 -----------|------------
 [Ejercicio 1](tema1/ejercicio1.html)|📝 Texto facilitado utilizando las etiquetas necesarias.                       
