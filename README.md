@@ -27,10 +27,10 @@
 Ejercicios | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1N-ePfly6uEPFOjIdiWBunZ2Ep3rY-c9tqu_On1L-7LY/edit?tab=t.0)  | 📖 **Instrucciones de las 4 actividades**
-[Ejercicio 1](tema0/pagina.html)|Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
-[Ejercicio 2](tema0/menu.xml)|Documento xml que incluya información sobre un par de libros de una biblioteca.
-[Ejercicio 3](tema0/ejercicio3)|¿Qué es SVG? Busca un ejemplo.
-[Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |Crea un repositorio nuevo “prueba” que incluya “README.md”.
+[Ejercicio 1](tema0/pagina.html)|🎁 Página web sencilla con un encabezado h1 y un pequeño párrafo de texto de mi elección.
+[Ejercicio 2](tema0/menu.xml)|🎍 Documento xml que incluya información sobre un par de libros de una biblioteca.
+[Ejercicio 3](tema0/ejercicio3)|🎃 ¿Qué es SVG? Busca un ejemplo.
+[Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |🧶 Crea un repositorio nuevo “prueba” que incluya “README.md”.
 </div>
 <body>
   <div align="center">
@@ -92,6 +92,7 @@ Pasos | Instrucciones
 [Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |✅ Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
 [Free Website Hosting](https://www.infinityfree.com/#google_vignette) |📍 First of all publish your website in a github repository and upload it in a free web hosting site.
 [Repositorio](https://github.com/jalfsan3108/Web4U) |🔩 Archives of the website.
+[Web4U](dominio) |🎪 View the page here.
 
 </div>
 
