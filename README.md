@@ -1,5 +1,8 @@
 # LLMM: *Lenguajes de marcas de 1º DAW*
 ### `🐱‍💻` **`Jose Darío Alfaro Santos`** 
+<div align="center">
+  <img src="https://scontent-mad1-1.xx.fbcdn.net/v/t39.30808-6/299636241_160271806589340_3094908519001876463_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=2ZWKwoUpN2kQ7kNvgHARhxm&_nc_zt=23&_nc_ht=scontent-mad1-1.xx&_nc_gid=AaQfwzZF31SrholdAvZuIUd&oh=00_AYDncxIA8Z25f58j_WDoDqiXN8-w7zEi9I4JchBTt06hXw&oe=675B85AD">
+</div>
 
 ## 🌐 **Recursos Principales**  
 - [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)
