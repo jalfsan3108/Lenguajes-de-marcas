@@ -5,20 +5,16 @@
  <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
                             
 
-<table>
-<tr>
-<td>
-<img src="https://i.pinimg.com/736x/25/9f/bc/259fbc534796941ab82eb0715210b190.jpg" alt="Imagen" style="width: 150px;">
-</td>
-<td>
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://i.pinimg.com/736x/25/9f/bc/259fbc534796941ab82eb0715210b190.jpg" alt="Imagen" style="width: 150px; height: auto;">
 
-## 🌐 **Recursos Principales**  
-- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
-- [📚] [`W3Schools`](https://www.w3schools.com/`)  
+  <div>
+    ## 🌐 **Recursos Principales**  
+    - [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
+    - [📚] [`W3Schools`](https://www.w3schools.com/)  
+  </div>
+</div>
 
-</td>
-</tr>
-</table>
 
 
 
