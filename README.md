@@ -11,7 +11,8 @@
 
 ---
 
- <div align="center"> ### 📝 **Progreso**
+ <div align="center"> 
+### 📝 **Progreso**
 
 |        Curso          |         Progreso         | Total |
 |:---------------------:|:------------------------:|:-----:|
@@ -19,7 +20,8 @@
 |       **TEMA 1**      | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | 30/33 |
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
 
----</div>
+---
+</div>
 
  <div align="center"> ## TEMA 0 - HTML
 Ejercicios | Descripción
