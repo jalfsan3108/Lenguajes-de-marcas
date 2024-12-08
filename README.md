@@ -5,22 +5,24 @@
  <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
                             
 
- ## 🌐 **Recursos Principales**  
-- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)
-- [📚] [`W3Schools`](https://www.w3schools.com/)  
+ <div style="display: flex; align-items: center; gap: 10px;">
+    <img src="https://i.pinimg.com/736x/25/9f/bc/259fbc534796941ab82eb0715210b190.jpg" alt="Imagen" style="width: 100px; height: auto; float: left;">
+    <div>
+        ## 🌐 **Recursos Principales**  
+        - [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
+        - [📚] [`W3Schools`](https://www.w3schools.com/)  
+    </div>
+</div>
 
 ---
- <div align="right">
   
-                 ### 📝 **Progreso**
+### 📝 **Progreso**
 
 |        Curso          |         Progreso         | Total |
 |:---------------------:|:------------------------:|:-----:|
 |       **TEMA 0**      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |  4/4  |
 |       **TEMA 1**      | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | 30/33 |
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
-
-</div>
 
 ---
 <div align="center">
