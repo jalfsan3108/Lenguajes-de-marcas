@@ -32,9 +32,21 @@ Ejercicios | Descripción
 [Ejercicio 3](tema0/ejercicio3)|¿Qué es SVG? Busca un ejemplo.
 [Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |Crea un repositorio nuevo “prueba” que incluya “README.md”.
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/61/7d/56/617d564b7cedb5e8f6e96f07a3415120.gif" alt="GIF Animado">
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIF Animado</title>
+</head>
+<body>
+  <div align="center">
+    <!-- Cambia el enlace a un GIF válido si no carga correctamente -->
+    <img src="https://i.pinimg.com/originals/61/7d/56/617d564b7cedb5e8f6e96f07a3415120.gif" alt="GIF Animado">
+  </div>
+</body>
+</html>
+
   
  ## TEMA 1 - HTML
 Ejercicios | Descripción
