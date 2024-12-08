@@ -37,7 +37,8 @@ Ejercicios | Descripción
     <img src="https://i.pinimg.com/originals/61/7d/56/617d564b7cedb5e8f6e96f07a3415120.gif" alt="GIF Animado">
   </div>
 </body>
-  
+   <div align="center">
+    
  ## TEMA 1 - HTML
 Ejercicios | Descripción
 -----------|------------
