@@ -5,13 +5,12 @@
  <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
                             
 
- <div align="center"> ## 🌐 **Recursos Principales**  
+ ## 🌐 **Recursos Principales**  
 - [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)
 - [📚] [`W3Schools`](https://www.w3schools.com/)  
 
 ---
 
- <div align="center"> 
 ### 📝 **Progreso**
 
 |        Curso          |         Progreso         | Total |
@@ -21,9 +20,8 @@
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
 
 ---
-</div>
 
- <div align="center"> ## TEMA 0 - HTML
+ ## TEMA 0 - HTML
 Ejercicios | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1N-ePfly6uEPFOjIdiWBunZ2Ep3rY-c9tqu_On1L-7LY/edit?tab=t.0)  | 📖 **Instrucciones de las 4 actividades**
@@ -31,8 +29,8 @@ Ejercicios | Descripción
 [Ejercicio 2](tema0/menu.xml)|Documento xml que incluya información sobre un par de libros de una biblioteca.
 [Ejercicio 3](tema0/ejercicio3)|¿Qué es SVG? Busca un ejemplo.
 [Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |Crea un repositorio nuevo “prueba” que incluya “README.md”.
-</div>
- <div align="center"> ## TEMA 1 - HTML
+
+ ## TEMA 1 - HTML
 Ejercicios | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones de las 30 actividades**
@@ -65,7 +63,7 @@ Ejercicios | Descripción
 [Ejercicio 27](tema1/ejercicio27.html) |🔊 Diseña una página que reproduzca un archivo de audio.  
 [Ejercicio 28](tema1/ejercicio28.html) |🎬 Incluye un vídeo incrustado de YouTube.  
 [Ejercicio 30](tema1/ejercicio30.html) |✨ Crea y publica un sitio web según las instrucciones dadas.
-</div><div align="center">
+
 Ejercicios DOM | Descripción
 -----------|------------
 [**Enunciados**](https://docs.google.com/document/d/1WRdNTHe1et5iHGRsCnMGeRJQBxInAxvtCLdPFBtZoYM/edit?tab=t.0)  | 📖 **Instrucciones de las 30 actividades**
@@ -73,13 +71,13 @@ Ejercicios DOM | Descripción
 [Ejercicio 24](tema1/ejerciciodom24.html)|🦽 Crea una página que incluya un párrafo.
 [Ejercicio 25](tema1/ejerciciodom25.html) |🚁 Crea una página que incluya un párrafo.
 [Ejercicio 26](tema1/ejerciciodom26.html) |🚈 Crea una página que incluya un iframe.
-</div><div align="center">
+
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
 ----------|-------------
 [Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |✅ Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
 [Free Website Hosting](https://www.infinityfree.com/#google_vignette) |📍 First of all publish your website in a github repository and upload it in a free web hosting site.
-</div>
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" alt="GIF Animado">
 </div>
