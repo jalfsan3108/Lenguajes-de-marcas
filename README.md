@@ -5,14 +5,9 @@
  <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
                             
 
-| ![Imagen](https://i.pinimg.com/736x/25/9f/bc/259fbc534796941ab82eb0715210b190.jpg) | ## 🌐 **Recursos Principales**  
-|:--------------------------------------------:|---------------------------------------|
-|                                               | - [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)  
-|                                               | - [📚] [`W3Schools`](https://www.w3schools.com/)  |
-
-
-
-
+ ## 🌐 **Recursos Principales**  
+- [📘] [`MCLibre`](https://www.mclibre.org/consultar/htmlcss/)
+- [📚] [`W3Schools`](https://www.w3schools.com/)  
 
 
 ---
