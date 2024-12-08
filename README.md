@@ -10,7 +10,8 @@
 - [📚] [`W3Schools`](https://www.w3schools.com/)  
 
 ---
-
+ <div align="right">
+  
 ### 📝 **Progreso**
 
 |        Curso          |         Progreso         | Total |
@@ -18,6 +19,8 @@
 |       **TEMA 0**      | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 |  4/4  |
 |       **TEMA 1**      | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ | 30/33 |
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
+
+</div>
 
 ---
 <div align="center">
