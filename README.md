@@ -20,7 +20,8 @@
 |   **Quarterly Work**  | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ |  10%  |
 
 ---
-
+<div align="center">
+ 
  ## TEMA 0 - HTML
 Ejercicios | Descripción
 -----------|------------
@@ -77,6 +78,8 @@ Pasos | Instrucciones
 ----------|-------------
 [Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |✅ Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
 [Free Website Hosting](https://www.infinityfree.com/#google_vignette) |📍 First of all publish your website in a github repository and upload it in a free web hosting site.
+
+</div>
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" alt="GIF Animado">
