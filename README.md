@@ -92,7 +92,7 @@ Pasos | Instrucciones
 [Enunciado](https://docs.google.com/document/d/195xAKsWE7OtO02Cr3YGRjn8qBjdKhDQ8aimYVjqdh6M/edit?tab=t.0) |✅ Create from scratch a website called **Web4U** where you will offer information and code examples about HTML, SVG and CSS.
 [Free Website Hosting](https://www.infinityfree.com/#google_vignette) |📍 First of all publish your website in a github repository and upload it in a free web hosting site.
 [Repositorio](https://github.com/jalfsan3108/Web4U---QuartelyWork) |🔩 Archives of the website.
-[Web4U](dominio) |🎪 View the page here.
+[Web4U](https://jalfsan3108.github.io/Web4U---QuartelyWork/) |🎪 View the page here.
 
 </div>
 
