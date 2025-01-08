@@ -74,6 +74,10 @@ Ejercicios | Descripción
 [Ejercicio 30](tema1/ejercicio30.html) |✨ Crea y publica un sitio web según las instrucciones dadas.
 
 
+<div align="center">
+  <img src="https://i.gifer.com/obR.gif" style="width: 100%; height: 100vh;" alt="GIF Animado">
+</div>
+
 
 Ejercicios DOM | Descripción
 -----------|------------
