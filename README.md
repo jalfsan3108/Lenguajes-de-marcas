@@ -2,7 +2,7 @@
  <div align="center">
   <img src="https://i.pinimg.com/736x/95/c2/0b/95c20b9cf72c2259d64258c344c6bde9.jpg" style="width: 100%; height: auto;">
 </div>
- <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
+ <div align="right"><h1> 🦇 Jose Darío Alfaro Santos </h1></div>
                             
 
  ## 🌐 **Recursos Principales**  
