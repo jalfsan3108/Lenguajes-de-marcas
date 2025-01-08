@@ -88,7 +88,6 @@ Ejercicios DOM | Descripción
   <img src="https://i.gifer.com/obR.gif" style="width: 100%; height: auto;">
 </div>
 
-<div align="center">
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
 ----------|-------------
