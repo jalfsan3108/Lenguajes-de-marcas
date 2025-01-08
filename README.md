@@ -84,9 +84,8 @@ Ejercicios DOM | Descripción
 ---
 
 <div align="center">
-  <img src="https://i.gifer.com/obR.gif" style="width: 100%; height: 100vh;" alt="GIF Animado">
+  <img src="https://i.gifer.com/obR.gif" style="width: 100%; height: auto;">
 </div>
-
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
 ----------|-------------
@@ -98,6 +97,6 @@ Pasos | Instrucciones
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/ca9885a67aff4843ce894784823201ea/tumblr_n7bhdidnQk1r03eggo1_500.gif"style="width: 100%; height: 100vh;" alt="GIF Animado">
+  <img src="https://64.media.tumblr.com/ca9885a67aff4843ce894784823201ea/tumblr_n7bhdidnQk1r03eggo1_500.gif" style="width: 100%; height: auto;">
 </div>
 
