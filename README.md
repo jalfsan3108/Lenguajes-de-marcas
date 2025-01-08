@@ -1,6 +1,6 @@
 # LLMM: *Lenguajes de marcas de 1º DAW*
  <div align="center">
-  <img src="https://i.pinimg.com/736x/41/4b/63/414b63ed0604e1a9b46ac69ff08af873.jpg">
+  <img src="https://i.pinimg.com/736x/95/c2/0b/95c20b9cf72c2259d64258c344c6bde9.jpg">
 </div>
  <div align="right"><h1> 🛡 Jose Darío Alfaro Santos </h1></div>
                             
