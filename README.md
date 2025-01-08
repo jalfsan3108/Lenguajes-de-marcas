@@ -82,10 +82,13 @@ Ejercicios DOM | Descripción
 [Ejercicio 26](tema1/ejerciciodom26.html) |🚈 Crea una página que incluya un iframe.‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 ---
+</div>
 
 <div align="center">
   <img src="https://i.gifer.com/obR.gif" style="width: 100%; height: auto;">
 </div>
+
+<div align="center">
 ## QuarterlyWork - HTML
 Pasos | Instrucciones
 ----------|-------------
