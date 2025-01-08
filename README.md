@@ -97,5 +97,5 @@ Pasos | Instrucciones
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/41/60/61/416061b9d95e206d7bbeb51e644cca6e.gif" alt="GIF Animado">
+  <img src="https://64.media.tumblr.com/ca9885a67aff4843ce894784823201ea/tumblr_n7bhdidnQk1r03eggo1_500.gif" alt="GIF Animado">
 </div>
