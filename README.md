@@ -32,11 +32,11 @@ Ejercicios | Descripción
 [Ejercicio 3](tema0/ejercicio3)|🎃 ¿Qué es SVG? Busca un ejemplo.
 [Ejercicio 4](https://github.com/jalfsan3108/prueba.git) |🧶 Crea un repositorio nuevo “prueba” que incluya “README.md”.
 </div>
-<body>
+
   <div align="center">
     <img src="https://i.pinimg.com/originals/61/7d/56/617d564b7cedb5e8f6e96f07a3415120.gif" alt="GIF Animado">
   </div>
-</body>
+  
    <div align="center">
     
  ## TEMA 1 - HTML
@@ -95,7 +95,7 @@ Pasos | Instrucciones
 [Repositorio](https://github.com/jalfsan3108/Web4U---QuartelyWork) |🔩 Archives of the website.
 [Web4U](https://jalfsan3108.github.io/Web4U---QuartelyWork/) |🎪 View the page here.
 
-</div>
+
 
 <div align="center">
   <img src="https://64.media.tumblr.com/ca9885a67aff4843ce894784823201ea/tumblr_n7bhdidnQk1r03eggo1_500.gif"style="width: 100%; height: 100vh;" alt="GIF Animado">
